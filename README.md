@@ -1,6 +1,6 @@
 # INF554 Assessment: Trees, Bagging and Boosting
 
-This is the assessment of course Marchine Learning and Deep Learn Learning. The goal is to delve deeper into the construction of the regression tree-based models.
+This is the assessment of course Machine Learning and Deep Learn Learning. The goal is to delve deeper into the construction of the regression tree-based models.
 
 # Data set
 
