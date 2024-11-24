@@ -1,0 +1,7 @@
+# INF554 Assessment: Trees, Bagging and Boosting
+
+This is the assessment of course Marchine Learning and Deep Learn Learning. The goal is to delve deeper into the construction of the regression tree-based models.
+
+# Data set
+
+In this assessment, I will be working with the <a href="https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset">Boston-Housing</a> dataset which originates from a study that aimed to predict the median value of owner-occupied homes in thousands of dollars (medv) in 506 observations from census tracts of the Boston metropolitan area. For this purpose, the followig measures were considered: crime rate by town (crim, $X_1$), proportion of residential land zoned for lots greater than 25,000 sq ft (zne, $X_2$), proportion of nonretail business acres per town (indus, $X_3$), whether the tract bounds river (1) or not (0) (chass, $X_4$), nitrogen oxide concentration in parts per hundred million (nox, $X_5$), average number of rooms in owner units (rm, $X_6$), proportion of owner units built prior to $1940$ (age, $X_7$), weighted distances to five employment centers in the Boston region (dis, $X_8$), index of accessibility to radial highways (rad, $X_9$), full value property tax rate per ten thousands of dollars (tax, $X_{10}$), pupil-teacher ratio by town school district (ptratio, $X_{11}$), black proportion of population (b, $X_{12}$) and proportion of population that is lower status (lstat, $X_{13}$). Thus, we have $13$ predictor variables and the continuous response variable medv, which we denote by $Y$.
